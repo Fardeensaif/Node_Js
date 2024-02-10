@@ -1,1 +1,1 @@
-console.log("fardeen");
+console.log("fardeen khan hu maen");
